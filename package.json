@@ -1,0 +1,24 @@
+{
+  "name": "my-components",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@vueuse/core": "^7.4.1",
+    "lodash": "^4.17.21",
+    "memoize-one": "^6.0.0",
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.178",
+    "@vue/cli-plugin-typescript": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2",
+    "typescript": "^4.5.4"
+  }
+}
